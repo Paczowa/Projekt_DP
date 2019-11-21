@@ -10,7 +10,7 @@
 #include <string>
 
 using namespace std;
- 
+//ver 1.1
  
 class ZestawKomputerowy {
  

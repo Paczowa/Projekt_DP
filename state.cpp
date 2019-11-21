@@ -1,5 +1,5 @@
-//dp state
-//ver.1.1
+
+//ver 1.1
 #include <cstdio>
 #include <cctype>
 #include <sstream>
