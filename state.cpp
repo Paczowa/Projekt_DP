@@ -1,5 +1,5 @@
 //dp state
-
+//prosze dodac wersje
 #include <cstdio>
 #include <cctype>
 #include <sstream>
