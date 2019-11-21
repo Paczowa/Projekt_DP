@@ -1,10 +1,11 @@
+
 //ver 1.1
 #include <cstdio>
 #include <cctype>
 #include <sstream>
 #include <list>
 #include <algorithm>
-#include "stdafx.h"
+
 class CTelevisor;
 
 class TTelevisor_State
@@ -31,7 +32,7 @@ private:
 	void eraseOldStates();
 	static void eraseState(TTelevisor_State * pState);
 protected:
-	//INFO: tu uproszczenie (friendy) po to by nie dodawać metod do zarzšdzania poniższymi zmiennymi
+
 	friend class CTVState_Idle;
 	friend class CTVState_PowerOnOff;
 	friend class CTVState_PickChannel;

@@ -2,12 +2,13 @@
 *   Wzorzec Projektowy Builder          *
 *   (budowniczy)                        *  
 *   www.algorytm.org                    *
-*   Opracowal Dworak Kamil              *
+*   Opracowal Dworak Kamil      
+*
 *****************************************/
- 
+//Ver. 1.1
 #include <iostream>
 #include <string>
-#include "stdafx.h"
+
 using namespace std;
 //ver 1.1
  
@@ -184,4 +185,3 @@ zestaw2.show();
  
 int x;
 cin >>x;
-}
