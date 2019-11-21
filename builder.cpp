@@ -9,7 +9,7 @@
 #include <string>
 #include "stdafx.h"
 using namespace std;
- //proszę dodac wersje
+ver 1.1
  
 class ZestawKomputerowy {
  
